@@ -8,10 +8,7 @@ et autres activités de farming.
 ## Table des matières
 1. [Installation](#installation)
 2. [Usage](#usage)
-5. [Contribuer](#contribuer)
-7. [Licence](#licence)
-8. [Auteurs et remerciements](#auteurs-et-remerciements)
-9. [Contact](#contact)
+3. [Contribuer](#contribuer)
 
 ## Installation
 Pour installer ce programme, suivez ces étapes :
