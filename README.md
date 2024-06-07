@@ -15,15 +15,14 @@ Pour installer ce programme, suivez ces étapes :
 
 1. Clonez ce dépôt.
     
-    ``git clone https://github.com/votre-utilisateur/autoclicker-rsl.git
-    cd autoclicker-rsl``
+    ``git clone https://github.com/votre-utilisateur/autoclicker-rsl.git``
+    ``cd autoclicker-rsl``
 
 2. Installer python
 
   Windows : 
-  ``curl -o python-installer.exe https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe
-python-installer.exe /quiet InstallAllUsers=1 PrependPath=1
-``
+  ``curl -o python-installer.exe https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe``
+  ``python-installer.exe /quiet InstallAllUsers=1 PrependPath=1``
 
 ## Usage
 Pour utiliser l'autoclicker, lancez le script principal.
