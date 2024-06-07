@@ -29,9 +29,9 @@ Pour utiliser l'autoclicker, lancez le script principal.
 ``python main.py``
 Une fois lancé, le programme commencera à automatiser les clics en fonction des paramètres définis.
 
-Contribuer
+## Contribuer
 Les contributions sont les bienvenues ! Pour contribuer :
 
-Fork ce dépôt.
+Forkez ce dépôt.
 Créez une branche pour votre fonctionnalité (git checkout -b feature/fonctionnalité).
 Ouvrez une Pull Request.
