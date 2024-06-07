@@ -15,7 +15,7 @@ Pour installer ce programme, suivez ces étapes :
 
 1. Clonez ce dépôt.
     
-       git clone https://github.com/votre-utilisateur/autoclicker-rsl.git
+       git clone https://github.com/lauiss/autoclicker-rsl.git
 
        cd autoclicker-rsl
 
